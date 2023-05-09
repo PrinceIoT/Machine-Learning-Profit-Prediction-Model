@@ -1,0 +1,1 @@
+Setting up a company is a great milestone for and individual. As the company continues to operate, it is important to track the investment and understand the profit flow. To be able to monitor and predict profit output, I created this profit model that is vital in making profit prediction. 
